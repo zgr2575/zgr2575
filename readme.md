@@ -83,12 +83,11 @@ Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/zgr2575/count.svg)
 
 
-⸻
+---
 
 🧭 Contact
 	•	Portfolio: https://zaneruheim.me
-
-⸻
+---
 
 📌 Profile Tips
 	•	Pin only the projects that demonstrate real skill — not experiments.
@@ -96,7 +95,7 @@ Visitor Count:
 	•	Use GitHub Actions to keep repos clean and automated.
 	•	Write READMEs like mini landing pages — clear, scannable, and helpful.
 
-⸻
+---
 
 ASCII Signature
 
